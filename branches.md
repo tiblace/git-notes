@@ -1,4 +1,4 @@
-git branch is an offshoot of the master branch that lets multiple 
+You might think that git branch is an offshoot of the master branch that lets multiple 
 developers work on various parts of a task and then merge
 their work together again later.
 
