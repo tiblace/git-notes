@@ -1,4 +1,7 @@
-You might think that git branch is an offshoot of the master branch that lets multiple 
+<<<<<<< HEAD
+
+this amazing git branch is an offshoot of the master branch that lets multiple 
+>>>>>>> edits
 developers work on various parts of a task and then merge
 their work together again later.
 
